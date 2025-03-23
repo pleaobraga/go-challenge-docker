@@ -94,20 +94,6 @@ CMD ["/main"]
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
 
----
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
-
----
-
-## 📧 Contact
-For questions or suggestions, feel free to reach out via [GitHub](https://github.com/pleaobraga).
-
----
-
-**Happy Coding! 🚀**
 
